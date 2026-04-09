@@ -1,0 +1,19 @@
+# Binaries
+still
+*.exe
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Go
+*.test
+*.out
+/dist/
